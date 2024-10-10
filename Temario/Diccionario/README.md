@@ -1,5 +1,10 @@
 ## Diccionario
 
+[← Regresar al indice](./../../README.md) <br>
+
+---
+
+
 >Commit : cada cambio que realizas
 
 > `<br>` : espacio 
