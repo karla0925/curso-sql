@@ -19,3 +19,10 @@
     git commit -m "lo que modificaste"
     git push -u origin master
 ```
+
+### Comandos para ver el historial de cambios
+    (se sale de este menu con la tecla q)
+
+```shell
+    git log 
+```
